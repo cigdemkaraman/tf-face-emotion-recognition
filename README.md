@@ -2,4 +2,4 @@
 Farklı kamera çeşitlerine göre; yüz tanıma ve anlık duygu durumu tespiti gerçekleştirilmiştir.
 
 
-NOT:models klasöründeki eksik dosyaları buradan indirebilirsiniz: https://drive.google.com/open?id=1gvBVvQpM7ZcNwWFLEYZ5wbYEp6dbSWBW
+NOT: models klasöründeki eksik dosyaları buradan indirebilirsiniz: https://drive.google.com/open?id=1gvBVvQpM7ZcNwWFLEYZ5wbYEp6dbSWBW
