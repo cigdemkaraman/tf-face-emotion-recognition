@@ -1,2 +1,2 @@
 # Derin Ogrenme - Yuz Tanima
-İki projenin birleşimidir.
+Farklı kamera çeşitlerine göre; yüz tanıma ve anlık duygu durumu tespiti gerçekleştirilmiştir.
